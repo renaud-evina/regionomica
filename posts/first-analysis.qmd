@@ -1,0 +1,9 @@
+---
+title: "Efficiency in Public Management"
+description: "A look at regional dynamics using spatial econometrics."
+date: "2026-03-08"
+categories: [Research, Regionomica]
+image: analysis-thumb.jpg
+---
+
+This is a placeholder for my first professional report.

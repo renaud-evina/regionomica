@@ -1,11 +1,30 @@
 ---
-title: "regionomica"
+title: " "
+image: renaud.jpg
+toc: false
+about:  
+   id: hero-heading
+   template: jolla
+   image-width: 12em
+   image-shape: round
+   links:
+    - text:  " "
+      href: https://www.linkedin.com/in/renaud-bruno-evina
+      icon: linkedin
+    - text:  " "
+      href: https://github.com/renaud-evina
+      icon: github
+    - text:  " "
+      href: mailto:bruno.evina@gmail.com
+      icon: envelope
 ---
+ 
+:::{#hero-heading .text-center}
+**REGIONOMICA** provides solutions in [**public management**]{.text-warning} using [**spatial econometrics**]{.text-warning} and [**productivity & efficiency analysis**]{.text-warning}, with a focus is on [**regional**]{.text-warning} and [**global dynamics**]{.text-warning} 
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**REGIONOMICA** oferece soluções em [**gestão pública**]{.text-primary} usando [**econometria espacial**]{.text-primary} e [**análise de produtividade e eficiência**]{.text-primary}, com foco em [**dinâmicas regionais**]{.text-primary} e [**globais**]{.text-primary}
 
-```{r}
-1 + 1
-```
+:::
+
+

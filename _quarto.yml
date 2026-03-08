@@ -3,20 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "regionomica"
+  title: "**REGIONOMICA CONSULTING**"
+  description: "Data-driven insights in Law, Economics, and Public Management"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+     - href: index.qmd
+       text: Home
+     - href: about.qmd
+       text: About
+     - href: posts.qmd
+       text: Blog
+     - href: Renaud_cv.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+       text: CV
+       target: _blank # opens link (or page) in a new browser tab 
+     - icon: github
+       href: https://github.com/renaud-evina
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      dark: solar
+      light: flatly
+    dark-mode-switch: true   # Adds the toggle button
+    default-state: dark      # This is the key line for your default
+    fontsize: 1.1em
+    linestretch: 1.7
     css: styles.css
     toc: true
-
-
+    toc-title: "On this page"
+    page-layout: full
+    
+execute:
+  freeze: auto
 

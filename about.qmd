@@ -1,9 +1,31 @@
 ---
-title: "About"
+title: "Renaud B. Evina"
+image: renaud.jpg
+about:
+  template: trestles
+  image-shape: round    # This is the line that makes it round!
+  image-width: 12em
 ---
 
-About this site
+### Professional Profile 
+I am a consultant and researcher with years of experience in the intersection of [**Law**]{.text-primary}, [**Economics**]{.text-primary}, and [**Policy**]{.text-primary}. 
 
-```{r}
-1 + 1
-```
+My work focuses on applying advanced quantitative methods to problems in [**public policy & management**]{.text-warning} at the regional and national levels.
+
+### Education 
+
+**University of Brasília** | Brasília, Brazil 
+
+- MSc in Political Science | Mar 2018 - Dec 2020
+- Bachelor of Laws      | 2011 - 2017
+- Bachelor in Economics | 2005 - 2010
+
+### Technical Expertise
+
+I bridge the gap between theory and applied policy applying:
+
+* [**Spatial Econometrics**]{.text-warning}
+* [**Stochastic Frontier Models**]{.text-warning} (Benchmarking Analysis)
+* [**Discrete Choice Experiments**]{.text-warning}
+
+I use Software [**R**]{.text-primary} & [**PostgreSQL/PostGIS**]{.text-primary}

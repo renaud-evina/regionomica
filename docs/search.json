@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Efficiency in Public Management\n\n\n\nResearch\n\nRegionomica\n\n\n\nA look at regional dynamics using spatial econometrics.\n\n\n\n\n\n\nMar 8, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "regionomica",
+    "title": "**REGIONOMICA CONSULTING**",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "REGIONOMICA provides solutions in public management using spatial econometrics and productivity & efficiency analysis, with a focus is on regional and global dynamics\nREGIONOMICA oferece soluções em gestão pública usando econometria espacial e análise de produtividade e eficiência, com foco em dinâmicas regionais e globais"
+  },
+  {
+    "objectID": "posts/first-analysis.html",
+    "href": "posts/first-analysis.html",
+    "title": "Efficiency in Public Management",
+    "section": "",
+    "text": "This is a placeholder for my first professional report."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Renaud B. Evina",
+    "section": "",
+    "text": "Professional Profile\nI am a consultant and researcher with years of experience in the intersection of Law, Economics, and Policy.\nMy work focuses on applying advanced quantitative methods to problems in public policy & management at the regional and national levels.\n\n\nEducation\nUniversity of Brasília | Brasília, Brazil\n\nMSc in Political Science | Mar 2018 - Dec 2020\nBachelor of Laws | 2011 - 2017\nBachelor in Economics | 2005 - 2010\n\n\n\nTechnical Expertise\nI bridge the gap between theory and applied policy applying:\n\nSpatial Econometrics\nStochastic Frontier Models (Benchmarking Analysis)\nDiscrete Choice Experiments\n\nI use Software R & PostgreSQL/PostGIS"
   }
 ]
